@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "BTW-Bedrock Edition",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "stone": { "textures": "textures/items/stone" },
+    "cement_item": { "textures": "textures/items/cement" },
+    "copper_ingot": { "textures": "textures/items/copper_ingot" },
+    "windmill": { "textures": "textures/items/windmill" },
+    "grinder": { "textures": "textures/items/grinder" }
+  }
+}

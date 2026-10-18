@@ -1,0 +1,9 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "btw:copper_ingot_from_ore" },
+    "tags": ["smoker", "furnace"],
+    "ingredients": [ { "item": "btw:copper_ore" } ],
+    "result": { "item": "btw:copper_ingot", "count": 1 }
+  }
+}

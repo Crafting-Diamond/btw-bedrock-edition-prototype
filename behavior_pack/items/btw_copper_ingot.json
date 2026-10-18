@@ -1,0 +1,13 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "btw:copper_ingot",
+      "category": "Materials",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:icon": "textures/items/copper_ingot"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "btw:windmill",
+      "is_experimental": true,
+      "materials": {
+        "default": "wood"
+      }
+    },
+    "components": {
+      "minecraft:destroy_time": 3,
+      "minecraft:explosion_resistance": 2,
+      "minecraft:map_color": "#8B5A2B",
+      "minecraft:block_light_emission": 0
+    }
+  }
+}

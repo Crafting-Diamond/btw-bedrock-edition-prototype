@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "btw:windmill_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [" W ", "WWW", " W "],
+    "key": { "W": { "item": "minecraft:planks" } },
+    "result": { "item": "btw:windmill", "count": 1 }
+  }
+}

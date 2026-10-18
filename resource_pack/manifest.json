@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BTW-Bedrock Edition - Resource Pack",
+    "description": "Improved resource pack with placeholder textures and localization.",
+    "uuid": "b4e7c4f8-86e5-4d35-a9f5-53f8df4b4c04",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f7f7a7d7-6c6b-4f4a-9b9b-0b0b0b0b0b05",
+      "version": [1, 1, 0]
+    }
+  ]
+}

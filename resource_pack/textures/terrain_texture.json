@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "BTW-Bedrock Edition",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "stone": { "textures": "textures/blocks/stone" },
+    "wet_cement": { "textures": "textures/blocks/wet_cement" },
+    "cement_block": { "textures": "textures/blocks/cement_block" },
+    "copper_ore": { "textures": "textures/blocks/copper_ore" },
+    "windmill": { "textures": "textures/blocks/windmill" },
+    "grinder": { "textures": "textures/blocks/grinder" }
+  }
+}

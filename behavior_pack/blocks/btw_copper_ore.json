@@ -1,0 +1,17 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "btw:copper_ore",
+      "is_experimental": false,
+      "materials": {
+        "default": "stone"
+      }
+    },
+    "components": {
+      "minecraft:destroy_time": 3,
+      "minecraft:explosion_resistance": 3,
+      "minecraft:map_color": "#B87333"
+    }
+  }
+}

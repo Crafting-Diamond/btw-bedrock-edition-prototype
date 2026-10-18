@@ -1,0 +1,11 @@
+{
+  "starting_age": 18,
+  "saturation_tick_interval_seconds": 30,
+  "saturation_effect_duration_seconds": 6,
+  "saturation_level": 1,
+  "enable_periodic_hunger": false,
+  "hunger_tick_interval_seconds": 60,
+  "hunger_effect_level": 0,
+  "wet_cement_harden_ticks": 20,
+  "windmill_power_output": 1
+}

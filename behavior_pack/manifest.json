@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BTW-Bedrock Edition - Behavior Pack",
+    "description": "Improved behavior pack: added windmill, grinder, copper ore, copper ingot, more recipes and updated scripts.",
+    "uuid": "a3c0c8b6-4b7f-4fc2-9b2f-1a7e3d9f5b01",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "9c4f6f15-8274-4478-8b5c-2f8a1b6e2f02",
+      "version": [1, 1, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "d2b5a8a9-1f0c-4b7d-8b2f-3c7e2a4a3c03",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ]
+}
